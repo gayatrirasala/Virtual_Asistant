@@ -7,7 +7,7 @@ Logging & error handling
 SQLite (optional) for storing history
 Usage:
 
-Clone the repo: git clone https://github.com/yourusername/virtual-assistant.git
+Clone the repo: git clone https://github.com/gayatrirasala/virtual-assistant.git
 Install dependencies: pip install -r requirements.txt
 Run the assistant: python main.py
 
